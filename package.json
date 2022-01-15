@@ -1,0 +1,10 @@
+{
+  "name": "glitch-bootstrap",
+  "version": "0.0.1",
+  "dependencies": {
+    "dotenv": "^12.0.3"
+  },
+  "scripts": {
+    "postinstall": "node .glitch-bootstrap/run.js"
+  }
+}
